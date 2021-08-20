@@ -1,0 +1,11 @@
+The largest of Mar's moons is named PHOBOS
+
+It's average distance from Mars in km is 9,377
+
+It's orbital period in Mars days is 0.31891
+
+It's major axis is 26 km long and it's minor axis is 18 km long.
+
+It has a mass of 10. x 10^15 kg
+
+It has a mean density of 1900 kg/m^3
